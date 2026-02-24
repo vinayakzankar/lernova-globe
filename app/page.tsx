@@ -6,11 +6,13 @@ export default function Home() {
       </h1>
 
       <p className="text-lg text-gray-600 max-w-xl mb-8">
-        AI-powered exam preparation that helps Klasse 4 students learn German independently — while giving parents confidence in real school preparation.
+        AI-powered math learning assistant for Grade 5 students.
+        Upload a chapter or exercise and get clear explanations,
+        step-by-step solutions, and practice questions.
       </p>
 
       <div className="text-sm text-gray-400">
-        Coming Soon.
+        Early access coming soon.
       </div>
     </main>
   );
